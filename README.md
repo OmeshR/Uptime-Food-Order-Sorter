@@ -12,6 +12,9 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 - **GUI for Simplicity:** Easy-to-use interface built with Tkinter.
 - **Cross-System Compatibility:** Adapts to different systems with dynamic file paths.
 
+  ![image](https://github.com/user-attachments/assets/975f7af0-6aaa-4967-92de-e78630f43de3)
+
+
 ---
 
 ### 🖥️ How to Download & Run
