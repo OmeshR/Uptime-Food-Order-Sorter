@@ -21,7 +21,7 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 
 #### 1️⃣ Download the Application
 1. Navigate to the [Releases Section](#) on this repository.
-2. Download the **`exe.win-amd64-3.12.7zip`** file.
+2. Download the **`Uptime Food Order Generator.7z`** file using the direct Google Drive link.
 3. Extract the file to a folder of your choice.
 
 #### 2️⃣ Bypass Windows SmartScreen Protection
