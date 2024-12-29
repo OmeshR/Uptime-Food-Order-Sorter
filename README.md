@@ -86,6 +86,8 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 1. **Input:** An Excel file with columns for restaurants, menus, and required dates.
 2. **Process:** The program filters rows matching today’s date and organizes data by restaurant.
 3. **Output:** Clean, organized JPEG reports saved in a desktop folder.
+![image](https://github.com/user-attachments/assets/24ae0097-c2b0-43c2-9099-49b4c4514b31)
+
 
 ---
 
