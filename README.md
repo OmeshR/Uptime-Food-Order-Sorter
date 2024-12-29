@@ -114,7 +114,7 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 
 ---
 ### IMPORTANT
-- ## If you get an error liek the below screenshot:
+- ## If you get an error like the below screenshot:
 ![image](https://github.com/user-attachments/assets/dc06e203-c7cd-45d0-8905-3e09e7cc4107)
 
 Please note that this is because the excel document you rpovided does not contain any order for today's date. Therefore, please check if anyone has actually put orders for today's date.
