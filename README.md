@@ -45,10 +45,10 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 ![image](https://github.com/user-attachments/assets/92f05730-86da-4bc7-ab14-78da2f6ccb72)
 5. Click on "OK" when you get the "success" message.
 ![image](https://github.com/user-attachments/assets/b778b970-0d1e-4bce-b1a2-447945e6394d)
+
 6. The images with the food order for that day will be on a folder like this in your desktop.
+
 ![image](https://github.com/user-attachments/assets/983192f4-8007-4fa2-bfa5-a448504543c9)
-
-
 
 #### Generating Reports 📊
 1. The program processes the Excel file and filters orders for today’s date.
