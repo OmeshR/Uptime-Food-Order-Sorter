@@ -28,7 +28,9 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 1. Locate the extracted `FoodOrderGenerator.exe` file.
 2. Double-click to run the file. If Windows SmartScreen protection appears:
    - Click **More Info**.
+![image](https://github.com/user-attachments/assets/35158580-02cd-46d4-8ce3-ce2268978e36)
    - Select **Run Anyway**.
+![image](https://github.com/user-attachments/assets/5d8cdd9a-1877-4948-a0ba-6c7d193722f1)
 3. The application will launch.
 
 ---
