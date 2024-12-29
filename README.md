@@ -111,7 +111,6 @@ The **Uptime Food Order Sorter** is a Python-based application designed to gener
 ### 🧰 Requirements
 - **Windows OS** (recommended for the `.exe` version).
 - **Python 3.9+** (for developers using the raw script).
-- Required Python libraries: `pandas`, `pillow`, `tkinter`, `pytz`.
 
 ---
 
