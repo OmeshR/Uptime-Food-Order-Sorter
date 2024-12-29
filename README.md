@@ -1,4 +1,4 @@
-# Uptime Food Order Sorter 🚀
+# Uptime Foodify 🚀🍔
 
 ### 📋 Overview
 The **Uptime Food Order Sorter** is a Python-based application designed to generate daily order reports for food services. It processes Excel files, filters orders by date, and creates detailed, organized reports per restaurant. The reports are saved as images in a dedicated folder on the user’s desktop. With its user-friendly GUI, anyone can upload their data and receive professional reports in no time!
